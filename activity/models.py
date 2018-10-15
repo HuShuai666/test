@@ -40,3 +40,7 @@ class Notice(models.Model):
 
     class Meta:
         db_table = "notice"
+'''
+
+这是一个测试
+'''
